@@ -1,0 +1,107 @@
+.body{
+    font-family: 'Roboto';
+    color:#434455;
+    background-color: red;
+}
+.header {
+}
+.header-link-logo {
+
+}
+.header-link {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.header-link:hover,
+.header-link:focus{
+    color: #404BBF;
+}
+.header-navigation {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    
+}
+.list {
+    list-style: none;
+}
+.link {
+    text-decoration: none;
+}
+.header-list {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.5;
+    color:#2E2F42;
+    letter-spacing: 0.02em;
+}
+    
+.header-item { 
+   
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.33;
+    letter-spacing: 0.02em;
+    color: #434455;
+  
+}
+.header-mail {
+    
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.33;
+    letter-spacing: 0.02em;
+    color: #434455;  
+}
+.header-mail:hover,
+.header-mail:focus{
+    color: #404BBF;
+    
+}
+.header-tel {
+    
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.33;
+    letter-spacing: 0.02em;
+    color: #434455;
+    
+}
+.header-tel:hover,
+.header-tel:focus{
+    color: #404BBF;
+}
+.main-title { 
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.main-btn { 
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.18;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.main-list {
+}
+.main-item {
+}
+.main-after-title {
+}
+.main-second-title {
+}
+.main-list-images {
+}
+.footer-link {
+}
+.footer-after-title {
+}
